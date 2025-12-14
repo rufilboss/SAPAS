@@ -125,8 +125,11 @@ gse301-python-project/
 │
 ├── student_analysis.py    # Main Python script
 ├── README.md             # This file
-└── screenshots/          # Output screenshots
-    └── output.png
+└── screenshots/        # Output screenshots
+    ├── update_records.png
+    ├── on_run.png
+    ├── output.png
+    └── exit.png
 ```
 
 ## Code Features
