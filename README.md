@@ -121,11 +121,12 @@ List of Students:
 ## Project Structure
 
 ```sh
-SAPAS/
+gse301-python-project/
 │
 ├── student_analysis.py    # Main Python script
 ├── README.md             # This file
-└── LICENSE    
+└── screenshots/          # Output screenshots
+    └── output.png
 ```
 
 ## Code Features
@@ -153,7 +154,8 @@ SAPAS/
 
 ## Author
 
-Ilyas Rufai
+[Your Name]
+[Your Matric Number]
 
 ## Course Information
 
@@ -170,6 +172,8 @@ Ilyas Rufai
 
 ## Biggest Challenge
 
-Using Object Oriented Programming
+[Describe your biggest challenge while working on this project]
 
 ---
+
+**Note**: Remember to tag @UnilorinNGR, @AbidoyeAbdulmjeeb, @GSE301 in your project post!
